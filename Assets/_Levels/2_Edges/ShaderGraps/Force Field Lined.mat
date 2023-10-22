@@ -34,6 +34,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _Base_Tex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Main_Text:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -56,8 +60,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Line_Scale: 50
-    - _Line_Strength: 0.5
+    - _Line_Scale: 2
+    - _Line_Speed: 2
+    - _Line_Strength: 0.516
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Rim_Power: 5
