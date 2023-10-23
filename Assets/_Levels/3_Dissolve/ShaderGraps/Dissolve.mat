@@ -35,9 +35,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _BUILTIN_QueueControl: -1
+    - _BUILTIN_QueueOffset: 0
+    - _CutOff: 1
+    - _Edge_Size: 0.05
+    - _Noise_Scale: 25
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    m_Colors:
+    - _Edge_Color: {r: 8, g: 0.2509804, b: 0, a: 1}
+    - _Main_Color: {r: 0.764151, g: 0.764151, b: 0.764151, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6838964630683028608
 MonoBehaviour:
