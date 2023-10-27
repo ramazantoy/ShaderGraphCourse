@@ -16,3 +16,10 @@
 
 
 ![Dissolve](https://github.com/ramazantoy/ShaderGraphCourse/assets/37442787/032f02b2-72d9-43ea-8b1d-48487423b290)
+
+4-By Position
+
+
+
+https://github.com/ramazantoy/ShaderGraphCourse/assets/37442787/c37743c5-8f26-4744-af0a-4b2d18f261a7
+
